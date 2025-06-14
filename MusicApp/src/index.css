@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#range::-webkit-range-thumb{
+    color: rgb(255, 25, 25);
+    border: none;
+}
